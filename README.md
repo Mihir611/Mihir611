@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mihir611
-- 👀 I’m interested in Web-Designing, IoT, Cybersecurity and Blockchain
+- 👀 I’m interested in Web-Designing, IoT, Cybersecurity and Blockchain, web3
 - 🌱 Currently working on React-Native and learning React js
 - 📫 How to reach me mihir17.udupa@gmail.com, udupamihir@gmail.com
 
