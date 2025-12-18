@@ -169,31 +169,32 @@ const mihir: Developer = {
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'forest', 'themeVariables': { 'primaryColor':'#ff0067','primaryTextColor':'#fff','primaryBorderColor':'#ff0067','lineColor':'#00d9ff','secondaryColor':'#1313c6','tertiaryColor':'#0bb93d','fontSize':'16px','fontFamily':'monospace'}}}%%
 mindmap
-  root((Mihir Udupa))
-    Full-Stack Development
-      React Ecosystem
-      Node.js & Express
-      Next.js & SSR
-      RESTful APIs
-    Mobile Development
-      React Native
-      .NET MAUI
-      Cross-Platform
-    Web3 & Blockchain
-      Smart Contracts
-      Solidity
-      DApp Development
-      Token Standards
-    IoT & Embedded
-      Arduino & RPi
-      Sensor Integration
-      Real-Time Systems
-    Database & Backend
-      MongoDB
-      MySQL
-      DynamoDB
-      Socket Programming
+  root((🎯 Mihir Udupa))
+    🚀 Full Stack Development
+      ⚛️ React Ecosystem
+      🟢 Node.js & Express
+      ⏭️ Next.js & SSR
+      🔌 RESTful APIs
+    📱 Mobile Development
+      📲 React Native
+      🔷 .NET MAUI
+      🌐 Cross Platform
+    ⛓️ Web3 & Blockchain
+      📜 Smart Contracts
+      💎 Solidity
+      🌟 DApp Development
+      🪙 Token Standards
+    🔌 IoT & Embedded
+      🤖 Arduino & RPi
+      📡 Sensor Integration
+      ⚡ Real Time Systems
+    💾 Database & Backend
+      🍃 MongoDB
+      🐬 MySQL
+      ☁️ DynamoDB
+      🔗 Socket Programming
 ```
 
 </div>
